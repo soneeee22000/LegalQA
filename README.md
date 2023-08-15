@@ -6,7 +6,7 @@ This repository contains a system being built for my Special Studies requirement
    ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/2ed56ff3-afc3-4c88-a0bf-a2f478fd8949)
 Okay , Now that we have our model! let's upload it on Huggingface so that I can use it easily and will make it opensource since others can,also
  
-https://huggingface.co/PyaeSoneK/LlamaV2LegalFineTuned?text=My+name+is+Merve+and+my+favorite
+   https://huggingface.co/PyaeSoneK/LlamaV2LegalFineTuned?text=My+name+is+Merve+and+my+favorite
 
 3. Now that we have our model we will solve the big issue of LLMS, which is the data freshness problem ( to simply put) most of the llms are cut off from the following years that they were trained and cut off from. So, I don't want my model to have the same problem! To solve the issues , langchain offers retriveal QA which will allow us to chat with documents (text, pdf,..) .But, this has too many limitations. First of all, it's hard to collect articles and documents .Most of the well-esatablished sites don't offer their articles as open-soruced . So, I will take the next step called : web scrapping. We will take what we need from the most recent ,fresh data possible ! sounds good? follow along!
    ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/648ae423-9bfa-4e57-a4e5-4804032c66f0)
