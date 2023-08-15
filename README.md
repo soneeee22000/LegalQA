@@ -8,8 +8,6 @@ Okay , Now that we have our model! let's upload it on Huggingface so that I can 
  
    https://huggingface.co/PyaeSoneK/LlamaV2LegalFineTuned?text=My+name+is+Merve+and+my+favorite
 
-3. Now that we have our model we will solve the big issue of LLMS, which is the data freshness problem ( to simply put) most of the llms are cut off from the following years that they were trained and cut off from. So, I don't want my model to have the same problem! To solve the issues , langchain offers retriveal QA which will allow us to chat with documents (text, pdf,..) .But, this has too many limitations. First of all, it's hard to collect articles and documents .Most of the well-esatablished sites don't offer their articles as open-soruced . So, I will take the next step called : web scrapping. We will take what we need from the most recent ,fresh data possible ! sounds good? follow along!
-   ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/648ae423-9bfa-4e57-a4e5-4804032c66f0)
-
+  2. Everything is fine and all.But,now that you have your finetuned model, you have to figure out how you would use it in your application. The problem with llama model is most of the people who started out fine with the model( like me customized dataset, train the model, inference and everything) the model weights ended up occupying most of the space left in your drive! Even seniors in my Brainlab like Sir. Amanda is facing this problem i heard. I spend hours and hours on the same problem as well. Trying and failing .But, Data Science is all about that from the start! Trails and ERRORS! There are so many steps I can still try to take and I shall! 
 
    
