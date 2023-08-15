@@ -8,6 +8,10 @@ Okay , Now that we have our model! let's upload it on Huggingface so that I can 
  
    https://huggingface.co/PyaeSoneK/LlamaV2LegalFineTuned?text=My+name+is+Merve+and+my+favorite
 
-  2. Everything is fine and all.But,now that you have your finetuned model, you have to figure out how you would use it in your application. The problem with llama model is most of the people who started out fine with the model( like me customized dataset, train the model, inference and everything) the model weights ended up occupying most of the space left in your drive! Even seniors in my Brainlab like Sir. Amanda is facing this problem i heard. I spend hours and hours on the same problem as well. Trying and failing .But, Data Science is all about that from the start! Trails and ERRORS! There are so many steps I can still try to take and I shall! 
+  2. Everything is fine and all.But,now that you have your finetuned model, you have to figure out how you would use it in your application. The problem with llama model is most of the people who started out fine with the model( like me customized dataset, train the model, inference and everything) the model weights ended up occupying most of the space left in your drive! Even seniors in my Brainlab like Sir. Amanda is facing this problem i heard. I spend hours and hours on the same problem as well. Trying and failing .But, Data Science is all about that from the start! Trails and ERRORS! There are so many steps I can still try to take and I shall!
+
+Note: I found out that in langchain you can run the quantized version of llama models locally via TheBloke/Llama-2-7B-Chat-GGML you can see all sort of llama models and their performance based on the different format of quant method. But, that's not what i want ! I want something easy for everyone to use! I also found out that there aren't any llama models on huggingface hub that you can test it out in the inference api right away since almost every models are way too big for their sizes! May be this is my opportunity to contribute something back to the community! I must make it my mission ! 
+
+I will either prune or use quant methods to reduce the model size down ! afterwards, I will take Abhinav's advice to further train the model again on much more data! this time I might introduce very recent datasets to solve data freshness problem in llms! 
 
    
