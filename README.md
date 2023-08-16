@@ -16,7 +16,8 @@ I will either prune or use quant methods to reduce the model size down ! afterwa
 
 For now, Behold my finetuned model on Huggingface ! I can finally load it and run ! after hours and hours of code debugging and trails and errors! sometimes if we miss even a minute details then our code will end up in choas and we could spend hours before a screen finding out what went wrong and that led to spending time on different alternatives and eventually end up fixing the first mistake that we started out with! Nevertheless, Voila my model is alive and well on the net and ohh there's already one download already! 
 
-![image](https://github.com/soneeee22000/LegalQA/assets/109932809/3c1b2fe4-30eb-4af2-9ad2-4c3e9618f192)
+![image](https://github.com/soneeee22000/LegalQA/assets/109932809/069b7b33-8764-4b13-bfa8-cf95793d7cd3)
+
 
 
 
