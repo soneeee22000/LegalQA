@@ -18,6 +18,10 @@ For now, Behold my finetuned model on Huggingface ! I can finally load it and ru
 
 ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/069b7b33-8764-4b13-bfa8-cf95793d7cd3)
 
+put in the best system-prompt that describes your model ! and voila with the help of langchain we can test it out like this , Perfect answer:
+![image](https://github.com/soneeee22000/LegalQA/assets/109932809/88cd3bed-94d9-4b97-b9a1-c5c9f06253cf)
+
+
 
 
 
