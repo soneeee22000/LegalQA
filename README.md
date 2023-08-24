@@ -1,7 +1,7 @@
 # LegalQA
 This repository contains a system being built for my Special Studies requirement at AIT with the help of the Langchain framework!
 
-Few-Shot-fine-tuned llama v2 ipynb file showcases how the dataset generation works and how I train it on the llama v2 sharded model. All the steps, starting from sample generation , creating dataframes, setting up train parameters, running inference, and merging and storing the model in Google Drive,
+Few-Shot-fine-tuned llama v2 ipynb file showcases how the dataset generation works and how I train it on the llama v2 hf version. All the steps, starting from sample generation , creating dataframes, setting up train parameters, running inference, and merging and storing the model in Google Drive,
    ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/a3133a4c-33ae-428f-b87b-e9807e70f9bf)
    ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/2ed56ff3-afc3-4c88-a0bf-a2f478fd8949)
 Okay , Now that we have our model! let's upload it on Huggingface so that I can use it easily and will make it opensource since others can,also
