@@ -22,7 +22,28 @@ llama is good! It's the best but it's also very expensive!
    as a recap! here is a quick look at the dataset that i am using to finetune llms with! ( peft : parameter efficient fine-tuning)
    ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/15fcb4b6-6b9b-4b6a-8915-aeab076c768a)
 
-with this dataset I have finetuned different sizes and versions of EleutherAI/pythia 70m, 410m ,2.8b and so on! as usual 
+with this dataset I have finetuned different sizes and versions of EleutherAI/pythia 70m, 410m ,2.8b and so on! as usual I have got all these losses as follow:
+70 m : ![Screenshot 2023-08-24 215204](https://github.com/soneeee22000/LegalQA/assets/109932809/c576be25-d9ea-4074-8e1c-4b70fd327eca)
+410m : ![Screenshot 2023-08-24 215224](https://github.com/soneeee22000/LegalQA/assets/109932809/9a8deb52-d88f-4e04-9b71-26f7fac1d33b)
+2.8b : ![Screenshot 2023-08-24 215246](https://github.com/soneeee22000/LegalQA/assets/109932809/40b65b73-4f3c-412c-a5c0-6596bf2d1151)
+
+as you can see depending on the model size the losses differ! even when it comes to inference the smaller models perform way less in quality compared to larger models. ( all the models have been uploaded to huggingface ready for inference)
+
+but, to deploy on huggingface spaces with only cpu available, i will choose the smallest 70 m ! the performance would be a lot less desireable compared to llama v2 or even 2.8b pythia but we will have to make do for now!
+
+----
+Final Deployment on HuggingFace Spaces 
+---
+
+![Screenshot 2023-08-24 195453](https://github.com/soneeee22000/LegalQA/assets/109932809/9afaf0f6-c424-419e-91d7-2fc7bccd9317)
+
+
+---
+
+follow this link to try it out yourself :  https://huggingface.co/spaces/PyaeSoneK/chatchat
+
+
+
 
 
 
