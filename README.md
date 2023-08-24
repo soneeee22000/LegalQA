@@ -11,8 +11,10 @@ Okay , Now that we have our model! let's upload it on Huggingface so that I can 
 put in the best system-prompt that describes your model ! and voila with the help of langchain we can test it out like this , Perfect answer:
 ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/88cd3bed-94d9-4b97-b9a1-c5c9f06253cf)
 
+----
+
 llama is good! It's the best but it's also very expensive!
-3. ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/05082c8f-26e6-4c4e-881f-76cd6ce470d0)
+![image](https://github.com/soneeee22000/LegalQA/assets/109932809/05082c8f-26e6-4c4e-881f-76cd6ce470d0)
 
    I spent weeks trying to deploy the model on huggingface spaces but encountered so many errors and it takes too long to run since the model is too big for personal use ! it's meant for commerical use! me running on just only cpu exhuast every compute units i have in store! so i have to unfortunately give up on this approach .( i will come back around solving this problem in my Masters' Thesis )
 
