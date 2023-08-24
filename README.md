@@ -45,7 +45,6 @@ but, to deploy on huggingface spaces with only cpu available, i will choose the 
 Final Deployment on HuggingFace Spaces 
 ---
 
-![Screenshot 2023-08-24 195453](https://github.com/soneeee22000/LegalQA/assets/109932809/9afaf0f6-c424-419e-91d7-2fc7bccd9317)
 
 ![Screenshot 2023-08-25 024302 - Copy](https://github.com/soneeee22000/LegalQA/assets/109932809/92672f48-e207-4d54-86db-ce6deae44792)
 
