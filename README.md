@@ -23,6 +23,17 @@ put in the best system-prompt that describes your model ! and voila with the hel
 
 
 
+3. ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/05082c8f-26e6-4c4e-881f-76cd6ce470d0)
+
+   I spent weeks trying to deploy the model on huggingface spaces but encountered so many errors and it takes too long to run since the model is too big for personal use ! it's meant for commerical use! me running on just only cpu exhuast every compute units i have in store! so i have to unfortunately give up on this approach .( i will come back around solving this problem in my Masters' Thesis )
+
+   Now i have looked for smallest to medium sized models so that i can deploy on huggingface spaces! Since now my goal is not getting the best model and outcome anymore! my goal is to deploy ! i can always get back to making it better!
+
+   as a recap! here is a quick look at the dataset that i am using to finetune llms with! ( peft : parameter efficient fine-tuning)
+   ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/15fcb4b6-6b9b-4b6a-8915-aeab076c768a)
+
+
+
 
 
 
