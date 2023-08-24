@@ -5,8 +5,7 @@ Few-Shot-fine-tuned llama v2 ipynb file showcases how the dataset generation wor
    ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/a3133a4c-33ae-428f-b87b-e9807e70f9bf)
 
 Okay , Now that we have our model! let's upload it on Huggingface so that I can use it easily and will make it opensource since others can,also
- 
-   https://huggingface.co/PyaeSoneK/LlamaV2LegalFineTuned?text=My+name+is+Merve+and+my+favorite
+ ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/6747b5f6-4673-48ec-8514-b55d6ac19f1a)
 
 put in the best system-prompt that describes your model ! and voila with the help of langchain we can test it out like this , Perfect answer:
 ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/88cd3bed-94d9-4b97-b9a1-c5c9f06253cf)
