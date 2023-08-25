@@ -39,14 +39,15 @@ with this dataset I have finetuned different sizes and versions of EleutherAI/py
 
 as you can see depending on the model size the losses differ! even when it comes to inference the smaller models perform way less in quality compared to larger models. ( all the models have been uploaded to huggingface ready for inference)
 
-but, to deploy on huggingface spaces with only cpu available, i will choose the smallest 70 m ! the performance would be a lot less desireable compared to llama v2 or even 2.8b pythia but we will have to make do for now!
+but, to deploy on huggingface spaces with only cpu available, i will choose the smallest 140 m !(70m performs the bare minimum) the performance would be a lot less desireable compared to llama v2 or even 2.8b pythia but we will have to make do for now!
 
 ----
 Final Deployment on HuggingFace Spaces 
 ---
 
 
-![Screenshot 2023-08-25 024302 - Copy](https://github.com/soneeee22000/LegalQA/assets/109932809/92672f48-e207-4d54-86db-ce6deae44792)
+![image](https://github.com/soneeee22000/LegalQA/assets/109932809/47849ba2-34e4-4d8e-aef0-9de9d75b3e58)
+
 
 
 
@@ -55,7 +56,9 @@ Final Deployment on HuggingFace Spaces
 
 follow this link to try it out yourself :  https://huggingface.co/spaces/PyaeSoneK/chatchat
 ___
-Since it's the smallest model, the responses aren't that promising ! I am working to make it better by combining with the RAG and Legal Prompt Engineering! now left with no compute units on colab! will make the demo better soon!
+Since it's the smallest model, the responses aren't that promising ! try to define what kind of law you are querying into!
+
+I am working to make it better by combining with the RAG and Legal Prompt Engineering! now left with no compute units on colab! will make the demo better soon!
 
 
 
