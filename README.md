@@ -54,6 +54,8 @@ Final Deployment on HuggingFace Spaces
 ---
 
 follow this link to try it out yourself :  https://huggingface.co/spaces/PyaeSoneK/chatchat
+___
+Since it's the smallest model, the responses aren't that promising ! I am working to making it better by combining with the RAG and Legal Prompt Engineering! now left with no compute units on colab! will make the demo better soon!
 
 
 
