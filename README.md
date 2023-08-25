@@ -58,6 +58,9 @@ follow this link to try it out yourself :  https://huggingface.co/spaces/PyaeSon
 ___
 Since it's the smallest model, the responses aren't that promising ! try to define what kind of law you are querying into!
 if it doesn't know the answer , it will at least give you some citation , article or paper you can follow to read more!(I hope)
+![image](https://github.com/soneeee22000/LegalQA/assets/109932809/bbca540d-ff21-4716-876f-859ef340054f)
+
+---
 
 I am working to make it better by combining with the RAG and Legal Prompt Engineering! now left with no compute units on colab! will make the demo better soon!
 
