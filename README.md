@@ -57,6 +57,7 @@ Final Deployment on HuggingFace Spaces
 follow this link to try it out yourself :  https://huggingface.co/spaces/PyaeSoneK/chatchat
 ___
 Since it's the smallest model, the responses aren't that promising ! try to define what kind of law you are querying into!
+if it doesn't know the answer , it will at least give you some citation , article or paper you can follow to read more!(I hope)
 
 I am working to make it better by combining with the RAG and Legal Prompt Engineering! now left with no compute units on colab! will make the demo better soon!
 
