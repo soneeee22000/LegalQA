@@ -58,8 +58,10 @@ Final Deployment on HuggingFace Spaces
 ---
 
 follow this link to try it out yourself :  https://huggingface.co/spaces/PyaeSoneK/chatchat
+![image](https://github.com/soneeee22000/LegalQA/assets/109932809/7894cf26-1adf-4f54-b2e8-6e90808763c5)
+
 ___
-Since it's the smallest model, the responses aren't that promising ! try to define what kind of law you are querying into!
+Since it's the smallest model running on cpu of huggingfaceco.spaces, the responses aren't that promising,  ! try to define what kind of law you are querying into!
 if it doesn't know the answer , it will at least give you some citation , article or paper you can follow to read more!(I hope)
 ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/bbca540d-ff21-4716-876f-859ef340054f)
 
