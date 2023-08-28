@@ -48,6 +48,9 @@ Final Deployment on HuggingFace Spaces
 
 ![image](https://github.com/soneeee22000/LegalQA/assets/109932809/47849ba2-34e4-4d8e-aef0-9de9d75b3e58)
 
+![image](https://github.com/soneeee22000/LegalQA/assets/109932809/82d074a7-4a80-4520-8d20-6c140d75d41d)
+
+
 
 
 
